@@ -1,0 +1,30 @@
+{
+  "name": "curso-ts",
+  "version": "1.0.0",
+  "description": "Repositório que armazena os códigos desenvolvidos durante a sessão de TypeScript do curso do Prof. Luiz Otávio Miranda. (https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leozabotto/curso-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leozabotto/curso-ts/issues"
+  },
+  "homepage": "https://github.com/leozabotto/curso-ts#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.8.0",
+    "@typescript-eslint/parser": "^5.8.0",
+    "eslint": "^8.5.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
